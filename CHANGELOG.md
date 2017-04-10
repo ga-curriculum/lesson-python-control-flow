@@ -2,7 +2,14 @@
 
 _Editor: Sam Stack_
 
-- Test Branch
+- Matched solution and starter code ipynb to those in claire's patch edits.
+
+- Updated header to reflect format in guidelines.
+
+- Q7-Q8: changed reference to animals list from 'animals' to 'animals list'
+- Q8: added hint "Hint: You may need to create a variable of vowels for comparison."
+
+- added to GitIgnore '.DS_Store' 
 
 
 ### v1.0 | 02.27.17
