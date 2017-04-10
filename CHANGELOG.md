@@ -11,6 +11,7 @@ _Editor: Sam Stack_
 
 - added to GitIgnore '.DS_Store' 
 
+_Note: I had issues getting the gitignore file to ignore the ipynb checkpoint folder in the solution-code folder.  I deleted the files and re-pushed.  
 
 ### v1.0 | 02.27.17
 
