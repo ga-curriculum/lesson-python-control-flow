@@ -1,3 +1,17 @@
+### v1.1 | 04.10.17
+
+_Editor: Sam Stack_
+
+- Matched solution and starter code ipynb to those in claire's patch edits.
+
+- Updated header to reflect format in guidelines.
+
+- Q7-Q8: changed reference to animals list from 'animals' to 'animals list'
+- Q8: added hint "Hint: You may need to create a variable of vowels for comparison."
+
+- added to GitIgnore '.DS_Store' 
+
+_Note: I had issues getting the gitignore file to ignore the ipynb checkpoint folder in the solution-code folder.  I deleted the files and re-pushed.  
 
 ### v1.0 | 02.27.17
 
