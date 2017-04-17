@@ -1,3 +1,9 @@
+### v1.2 | 04.17.17
+
+_Editor: Sam Stack_
+
+- Added Learning objectives and table on contenets to lesson and solution code
+
 ### v1.1 | 04.10.17
 
 _Editor: Sam Stack_
