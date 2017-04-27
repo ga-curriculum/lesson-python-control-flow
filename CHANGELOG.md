@@ -1,3 +1,11 @@
+### v1.2 | 04.20.17
+
+_Editor: Sam Stack_
+
+- Changed question 11 sentence
+- Added Learning objectives and table on contenets to lesson and solution code
+
+
 ### v1.1 | 04.10.17
 
 _Editor: Sam Stack_
