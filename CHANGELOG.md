@@ -1,3 +1,9 @@
+### v1.2 | 12.21.17
+
+_Editor: Matt Speck_
+
+- Added lesson readme
+
 ### v1.2 | 04.20.17
 
 _Editor: Sam Stack_
