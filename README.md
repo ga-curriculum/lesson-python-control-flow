@@ -11,7 +11,7 @@ Questions? Comments? Complaints?:
 
 <!--- Unit and Lesson or sequence information. This template is an instructor-facing description of lesson contents. Students who fork these repos may also be able to view. --->
 
-## Docker setup
+## Docker setup (IF APPLICABLE!)
 
 After you've forked, cloned and `cd`'ed into this lecture, run the following to spin up a Docker container:
 ```bash
@@ -27,17 +27,10 @@ docker run --name 1.02-lesson-python-control-flow -p 8888:8888 -v "$PWD":/home/j
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Jupyter Notebook with instructions and empty cells for codealong | [Link](./iteration-control-flows-functions.ipynb)|
-| Data | Coffee Preferences | [Link](./datasets/coffee-preferences.csv)|
-| Solutions | Sample solutions to codealong | [Link](./solution-code/iteration-control-flows-functions-solutions.ipynb)|
-
-<!---
-| Slides | Slide decks & PDFs, if applicable | [Link](./xyz)|
-| Extra Resources | Other files, if applicable | [Link](./xyz) |
-| Source Materials | Older content, if applicable | [Link](./xyz) |
---->
-
-> Dataset description: Small, unclean dataset of individuals' numbers of orders from different coffee shops. Used for control flow practice.
+| Lesson | Jupyter notebook with instructions and empty cells for codealong | [Link](./iteration-control-flow-starter-code.ipynb)|
+| Exercises | Jupyter notebook of 5 challenging exercises | [Link](./exercises.ipynb)
+| Solutions | Sample solutions to codealong | [Link](./solution-code/iteration-control-flow-solution-code.ipynb)|
+| Exercise Solutions | Solution code for 5 challenging exercises | [Link](./exercises-solutions.ipynb)
 
 ---
 
@@ -48,10 +41,8 @@ docker run --name 1.02-lesson-python-control-flow -p 8888:8888 -v "$PWD":/home/j
 - Explore `Python` control flow and conditional programming.
 - Implement `For` and `While` loops to iterate through data structures.
 - Apply `if, else` conditional statements.
-- Create functions to perform repetitive actions.
 - Demonstrate error-handling using `try, except` statements.
 - Combine control flow and conditional statements to solve the classic "FizzBuzz" code challenge.
-- Use `Python` control flow and functions to help us parse, clean, edit and analyze the Coffee Preferences dataset.
 
 ---
 
@@ -71,34 +62,18 @@ docker run --name 1.02-lesson-python-control-flow -p 8888:8888 -v "$PWD":/home/j
 
 > Total Time: 90 min
 
-- If Else Statement (10 min)
-  - Write an if-else statement to check whether the suitcase is over 50lb.
-  - Write an if-else statement for multiple conditions.
-- Iterating With For Loops (15 min)
-  - Write a for-loop that iterates from the number 1 to the number 15.
-  - Iterate from 1 to 15, printing whether the number is odd or even.
-  - Iterate from 1 to 30 with the various instructions.
-  - Iterate through a list of animals, and print each one in all caps.
-  - Iterate through the animals list. Capitalize the first letter and append the modified animals to a new list.
-  - Iterate through the animals. Print out the animal name and the number of vowels in the name.
-- Functions (20 min)
-  - Write a function that takes word as an argument and returns the number of vowels in the word.
-  - Write a function to calculate the area of a triangle using its height and width.
-- While Loops (15 min)
-  - While loops and strings
-  - Try to convert elements in a list to floats
-- Practice control flow on Coffee Preference dataset (30 min)
-  - Load coffee preference data from file and print
-  - Remove the remaining newline `'\n'` characters with a for-loop
-  - Split the lines into "header" and "data" variables.
-  - Split the header and the data strings on commas.
-  - Remove the "Timestamp" column.
-  - Convert numeric columns to floats and empty fields to `None`.
-  - Count the `None` values per person, and put counts in a dictionary.
-  - Calculate average rating per coffee brand.
-  - Create a list containing only the people's names.
-  - Picking a name at random. What are the odds of choosing the same name three times in a row?
-  - Construct a while loop to run the choosing function until it returns True.
+- Conditional statements (`if`/`else` statements)
+    - Eat some broccoli ice cream
+    - Get feedback on our health test
+- For Loops
+    - Greet our instructors
+    - Loop through a range
+    - Loop through unpacked tuples
+- While Loops
+    - Creating a loop that stops randomly
+    - Create an infinite loop
+- Error Handling
+    - Stop ourselves from accidentally dividing by zero, which would really wreak havoc
 
 ---
 
@@ -109,5 +84,6 @@ docker run --name 1.02-lesson-python-control-flow -p 8888:8888 -v "$PWD":/home/j
 For more information on this topic, check out the following resources:
 
 - [Control Flow - A Byte of Python](https://python.swaroopch.com/control_flow.html)
+* Automate the Boring Stuff with Python: Free book/blog [here](https://automatetheboringstuff.com).
 
 ---
