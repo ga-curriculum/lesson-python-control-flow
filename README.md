@@ -39,7 +39,7 @@ docker run --name 1.02-lesson-python-control-flow -p 8888:8888 -v "$PWD":/home/j
 <!--- This section lists the learning objectives of the lesson. For information on how to write clear learning objectives, see: http://ii.library.jhu.edu/2016/07/20/writing-effective-learning-objectives/ --->
 
 - Explore `Python` control flow and conditional programming.
-- Implement `For` and `While` loops to iterate through data structures.
+- Implement `for` and `while` loops to iterate through data structures.
 - Apply `if, else` conditional statements.
 - Demonstrate error-handling using `try, except` statements.
 - Combine control flow and conditional statements to solve the classic "FizzBuzz" code challenge.
