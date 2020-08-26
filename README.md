@@ -7,10 +7,6 @@ Questions? Comments? Complaints?:
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Review python iteration, control flows, and functions
 
-> Unit 1, Lesson 4
-
-<!--- Unit and Lesson or sequence information. This template is an instructor-facing description of lesson contents. Students who fork these repos may also be able to view. --->
-
 ---
 
 ## Materials We Provide
@@ -19,9 +15,9 @@ Questions? Comments? Complaints?:
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Jupyter notebook with instructions and empty cells for codealong | [Link](./iteration-control-flow-starter-code.ipynb)|
-| Exercises | Jupyter notebook of 5 challenging exercises | [Link](./exercises.ipynb)
-| Solutions | Sample solutions to codealong | [Link](./solution-code/iteration-control-flow-solution-code.ipynb)|
+| Lesson | Starter Code | [Link](./starter-code.ipynb)|
+| Exercises | 5 challenging exercises | [Link](./exercises.ipynb)
+| Lesson Solutions | Solution Code | [Link](./solution-code/solution-code.ipynb)|
 | Exercise Solutions | Solution code for 5 challenging exercises | [Link](./exercises-solutions.ipynb)
 
 ---
