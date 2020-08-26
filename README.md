@@ -5,9 +5,7 @@ Questions? Comments? Complaints?:
 3. Reach out to the data team on Slack and share your thoughts!
 -->
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Review python iteration, control flows, and functions
-
----
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Python Iteration, Control Flows, and Functions
 
 ## Materials We Provide
 
@@ -31,17 +29,6 @@ Questions? Comments? Complaints?:
 - Apply `if, else` conditional statements.
 - Demonstrate error-handling using `try, except` statements.
 - Combine control flow and conditional statements to solve the classic "FizzBuzz" code challenge.
-
---- 
-
-## Docker setup (IF APPLICABLE!)
-
-After you've forked, cloned and `cd`'ed into this lecture, run the following to spin up a Docker container:
-```bash
-docker run --name 1.02-lesson-python-control-flow -p 8888:8888 -v "$PWD":/home/jovyan/ jupyter/scipy-notebook
-```
-
-
 
 ---
 
