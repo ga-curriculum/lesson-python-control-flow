@@ -1,11 +1,11 @@
 <!--
-Questions? Comments? Complaints?: 
+Questions? Comments? Complaints?:
 1. Log an issue to this repo to alert us of a problem.
 2. Suggest an edit yourself by forking this repo, making edits, and submitting a pull request with your changes back to our master branch.
 3. Reach out to the data team on Slack and share your thoughts!
 -->
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Python Iteration, Control Flows, and Functions
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Control Flow in Python: Conditionals and Loops
 
 ## Materials We Provide
 
@@ -14,21 +14,20 @@ Questions? Comments? Complaints?:
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Starter Code | [Link](./starter-code.ipynb)|
-| Exercises | 5 challenging exercises | [Link](./exercises.ipynb)
-| Lesson Solutions | Solution Code | [Link](./solution-code/solution-code.ipynb)|
-| Exercise Solutions | Solution code for 5 challenging exercises | [Link](./exercises-solutions.ipynb)
+| Lesson Solutions | Solution Code | [Link](./solution-code.ipynb)|
+| Exercises | 5 challenging exercises | [Link](./exercises)
 
 ---
 
 ## Learning Objectives
 
-<!--- This section lists the learning objectives of the lesson. For information on how to write clear learning objectives, see: http://ii.library.jhu.edu/2016/07/20/writing-effective-learning-objectives/ --->
-
-- Explore `Python` control flow and conditional programming.
-- Implement `for` and `while` loops to iterate through data structures.
-- Apply `if, else` conditional statements.
-- Demonstrate error-handling using `try, except` statements.
-- Combine control flow and conditional statements to solve the classic "FizzBuzz" code challenge.
+*By the end of this lesson, you should be able to:*
+- Describe control flow and conditional programming.
+- Use `if`, `elif`, and `else` in Python to add conditions to your program.
+- Loop through Python structures using `for` and `while` loops.
+- Differentiate between `for` and `while` loop structures.
+- Combine conditional statements and loops in Python to solve problems.
+- Demonstrate error-handling using `try` and `except` statements.
 
 ---
 
